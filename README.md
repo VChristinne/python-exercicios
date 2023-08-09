@@ -1,2 +1,2 @@
 # python exercicios
- Exercícios de python do Curso em Vídeo
+ Python codes from course Curso em Vídeo
